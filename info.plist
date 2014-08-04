@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>lbfuvqn.xrvwv.84@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Keiji Yoshida</string>
+	<key>description</key>
+	<string>HTML Template Engine for Go, &lt;a href="https://github.com/yosssi/ace" title="Ace - HTML Template Engine for Go"&gt;more info&lt;/a&gt;.</string>
+	<key>name</key>
+	<string>Ace</string>
+	<key>uuid</key>
+	<string>7DF71535-7E1A-4BEE-BF9B-A74E0E598975</string>
+</dict>
+</plist>
